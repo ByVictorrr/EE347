@@ -1,1 +1,1 @@
-# EE347
+# EE 347 - Digital Integrated Electronics Lab
